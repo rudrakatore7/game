@@ -11,6 +11,9 @@ out-tsc
 # dependencies
 node_modules
 
+# Packaged Electron output
+artifacts/3d-game/dist-electron/
+
 # IDEs and editors
 /.idea
 .project
