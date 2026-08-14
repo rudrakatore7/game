@@ -1,0 +1,6 @@
+{
+  "appId": "com.maze.hunter",
+  "appName": "Maze Hunter",
+  "webDir": "dist/public",
+  "bundledWebRuntime": false
+}

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Maze Hunter</string>
+    <string name="title_activity_main">Maze Hunter</string>
+    <string name="package_name">com.maze.hunter</string>
+    <string name="custom_url_scheme">com.maze.hunter</string>
+</resources>
